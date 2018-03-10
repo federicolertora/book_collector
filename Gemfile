@@ -40,7 +40,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
 
-gem 'simple_form'
+
 
 
 
